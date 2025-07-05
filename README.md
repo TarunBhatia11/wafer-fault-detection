@@ -240,8 +240,4 @@ If you'd like to contribute to the project, please follow our contributing guide
 
 ## Author
 
-Mahesh Kumar R
-
-LinkedIn Profile - [LinkedIn Profile](https://www.linkedin.com/in/mahesh-kumar-r/)
-
-For detailed Project Explaination video -[click here ](https://youtu.be/hXVvsEaUsBw)
+Tarun Bhatia
