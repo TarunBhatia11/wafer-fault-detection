@@ -1,0 +1,119 @@
+2024-11-12/13:58:15		GoodRaw directory deleted successfully!!!
+2024-11-12/13:58:15		Bad files moved to archive
+2024-11-12/13:58:15		Bad Raw Data Folder Deleted successfully!!
+2024-11-12/14:01:42		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:01:42		GoodRaw directory deleted successfully!!!
+2024-11-12/14:02:12		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:02:12		GoodRaw directory deleted successfully!!!
+2024-11-12/14:02:20		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:02:20		GoodRaw directory deleted successfully!!!
+2024-11-12/14:03:43		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:03:43		GoodRaw directory deleted successfully!!!
+2024-11-12/14:04:17		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:04:17		GoodRaw directory deleted successfully!!!
+2024-11-12/14:05:45		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:05:45		GoodRaw directory deleted successfully!!!
+2024-11-12/14:05:54		GoodRaw directory deleted successfully!!!
+2024-11-12/14:05:54		Bad files moved to archive
+2024-11-12/14:05:54		Bad Raw Data Folder Deleted successfully!!
+2024-11-12/14:06:26		GoodRaw directory deleted successfully!!!
+2024-11-12/14:06:26		Bad files moved to archive
+2024-11-12/14:06:26		Bad Raw Data Folder Deleted successfully!!
+2024-11-12/14:07:35		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:07:35		GoodRaw directory deleted successfully!!!
+2024-11-12/14:15:31		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:15:31		GoodRaw directory deleted successfully!!!
+2024-11-12/14:15:43		GoodRaw directory deleted successfully!!!
+2024-11-12/14:15:43		Bad files moved to archive
+2024-11-12/14:15:43		Bad Raw Data Folder Deleted successfully!!
+2024-11-12/14:18:06		GoodRaw directory deleted successfully!!!
+2024-11-12/14:18:06		Bad files moved to archive
+2024-11-12/14:18:06		Bad Raw Data Folder Deleted successfully!!
+2024-11-12/14:21:05		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:21:05		GoodRaw directory deleted successfully!!!
+2024-11-12/14:21:11		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:21:11		GoodRaw directory deleted successfully!!!
+2024-11-12/14:21:19		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:21:19		GoodRaw directory deleted successfully!!!
+2024-11-12/14:23:39		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:23:39		GoodRaw directory deleted successfully!!!
+2024-11-12/14:36:00		BadRaw directory deleted before starting validation!!!
+2024-11-12/14:36:00		GoodRaw directory deleted successfully!!!
+2024-11-12/14:36:23		GoodRaw directory deleted successfully!!!
+2024-11-12/14:36:23		Bad files moved to archive
+2024-11-12/14:36:23		Bad Raw Data Folder Deleted successfully!!
+2024-11-13/11:51:25		GoodRaw directory deleted successfully!!!
+2024-11-13/11:51:26		Bad files moved to archive
+2024-11-13/11:51:26		Bad Raw Data Folder Deleted successfully!!
+2024-11-13/11:53:07		GoodRaw directory deleted successfully!!!
+2024-11-13/11:53:07		Bad files moved to archive
+2024-11-13/11:53:07		Bad Raw Data Folder Deleted successfully!!
+2024-11-13/11:53:45		GoodRaw directory deleted successfully!!!
+2024-11-13/11:53:45		Bad files moved to archive
+2024-11-13/11:53:45		Bad Raw Data Folder Deleted successfully!!
+2024-11-13/12:01:55		GoodRaw directory deleted successfully!!!
+2024-11-13/12:01:55		Bad files moved to archive
+2024-11-13/12:01:55		Bad Raw Data Folder Deleted successfully!!
+2024-11-13/12:02:15		BadRaw directory deleted before starting validation!!!
+2024-11-13/12:02:15		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/wafer_29012020_050617.csv'
+2024-11-13/12:02:17		GoodRaw directory deleted successfully!!!
+2024-11-13/12:02:17		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:02:19		GoodRaw directory deleted successfully!!!
+2024-11-13/12:02:19		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:02:24		GoodRaw directory deleted successfully!!!
+2024-11-13/12:02:24		Error while moving bad files to archive:: [WinError 267] The directory name is invalid: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2024-11-13/12:03:08		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:05:48		GoodRaw directory deleted successfully!!!
+2024-11-13/12:05:48		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:05:53		GoodRaw directory deleted successfully!!!
+2024-11-13/12:05:53		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:09:35		GoodRaw directory deleted successfully!!!
+2024-11-13/12:09:35		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:17:15		GoodRaw directory deleted successfully!!!
+2024-11-13/12:17:15		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:17:38		GoodRaw directory deleted successfully!!!
+2024-11-13/12:17:38		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:17:40		GoodRaw directory deleted successfully!!!
+2024-11-13/12:17:40		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:18:52		GoodRaw directory deleted successfully!!!
+2024-11-13/12:18:52		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:22:08		GoodRaw directory deleted successfully!!!
+2024-11-13/12:22:08		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:22:16		GoodRaw directory deleted successfully!!!
+2024-11-13/12:22:16		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-13/12:22:18		GoodRaw directory deleted successfully!!!
+2024-11-13/12:22:18		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:16:31		GoodRaw directory deleted successfully!!!
+2024-11-20/14:16:31		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:18:07		GoodRaw directory deleted successfully!!!
+2024-11-20/14:18:07		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:18:28		GoodRaw directory deleted successfully!!!
+2024-11-20/14:18:28		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:19:13		GoodRaw directory deleted successfully!!!
+2024-11-20/14:19:13		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:19:15		GoodRaw directory deleted successfully!!!
+2024-11-20/14:19:15		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:23:17		GoodRaw directory deleted successfully!!!
+2024-11-20/14:23:17		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:23:22		GoodRaw directory deleted successfully!!!
+2024-11-20/14:23:22		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:24:42		GoodRaw directory deleted successfully!!!
+2024-11-20/14:24:42		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:25:56		GoodRaw directory deleted successfully!!!
+2024-11-20/14:25:56		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:29:54		GoodRaw directory deleted successfully!!!
+2024-11-20/14:29:54		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:46:21		GoodRaw directory deleted successfully!!!
+2024-11-20/14:46:21		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-11-20/14:46:26		GoodRaw directory deleted successfully!!!
+2024-11-20/14:46:26		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-12-01/14:18:32		GoodRaw directory deleted successfully!!!
+2024-12-01/14:18:32		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-12-01/14:21:31		GoodRaw directory deleted successfully!!!
+2024-12-01/14:21:31		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-12-01/14:21:33		GoodRaw directory deleted successfully!!!
+2024-12-01/14:21:33		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-12-01/14:21:37		GoodRaw directory deleted successfully!!!
+2024-12-01/14:21:37		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2024-12-01/14:35:07		GoodRaw directory deleted successfully!!!
+2024-12-01/14:35:07		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':

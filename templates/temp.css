@@ -1,0 +1,6 @@
+body .img {
+    background-image: url('/static/css/pexels-alexander-kovalev-2847648.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
